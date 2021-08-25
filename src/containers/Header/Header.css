@@ -1,0 +1,18 @@
+.logo {
+  padding: 25px;
+  width: 50px;
+}
+
+.main-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  height: 50px;
+  justify-content: space-between;
+  padding: 25px;
+}
