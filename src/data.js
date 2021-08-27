@@ -3,7 +3,7 @@ export const data = {
         version: '1.0',
         termsOfService: 'mockURL',
         features: {
-            runeNames: 32,
+            runeNames: 33,
         },
     },
     runeNames: [
@@ -40,5 +40,10 @@ export const data = {
         'stan',
         'chalc',
         'gar'
-    ]
+    ],
+    fehu: {
+        symbol: 'image',
+        meaning: 'string',
+        poem: 'string'
+    }
 };
